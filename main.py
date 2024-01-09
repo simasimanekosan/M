@@ -2,7 +2,7 @@
 import discord
 
 # アクセストークンを設定
-TOKEN = "MTE5MzgyOTM4OTg4NDk4MTI4OQ.GQBxR1.iH3jgJx0irLa0Xt3FVPpKOQSpwvXq5AnEfhaZA"  # 自分のアクセストークンと置換してください
+TOKEN = ""  # 自分のアクセストークンと置換してください
 
 # Botの大元となるオブジェクトを生成する
 bot = discord.Bot(
